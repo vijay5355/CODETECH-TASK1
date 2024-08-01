@@ -29,6 +29,9 @@ Train the model on the training data.
 Evaluate the model's performance using metrics like mean squared error (MSE) and R-squared (R²).
 Make predictions on the test set.
 Visualize the regression line and actual vs. predicted values to assess the model's accuracy.
+
+
+
 Key Activities:
 
 Data Loading: Load the dataset using pandas.
@@ -40,6 +43,9 @@ Predictions: Make predictions on the test set.
 Visualization:
 Plot the regression line.
 Visualize actual vs. predicted values.
+
+
+
 Technologies Used:
 
 Python: The programming language used for the analysis and modeling.
@@ -48,6 +54,9 @@ numpy: For numerical operations.
 scikit-learn: For machine learning algorithms and evaluation metrics.
 matplotlib: For creating static, animated, and interactive visualizations.
 seaborn: For statistical data visualization.
+
+
+
 Key Insights:
 
 Model Performance: The model's performance is evaluated using MSE and R², which indicate how well the model fits the data.
