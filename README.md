@@ -14,11 +14,16 @@ Mentor:Muzammil
 
 Overview of the Project: Project: PREDICTIVE MODELING WITH LINEAR REGRESSION
 
-![image](https://github.com/user-attachments/assets/7a999a8a-4bbe-4c28-ae5b-1a96c9afb379)
-![image](https://github.com/user-attachments/assets/9aaa2af4-c775-41ed-9f5b-6e5954c5b79d)
-
-![image](https://github.com/user-attachments/assets/2b65de76-3f67-4740-8af6-a7b480a1abb3)
-
+![image](https://github.com/user-attachments/assets/c3bace9d-9e09-4009-877e-fcf0a4b497d7)
+![image](https://github.com/user-attachments/assets/8f2a2844-c7e1-475a-b0e1-214aa5cd1982)
+![image](https://github.com/user-attachments/assets/3ad662eb-8a69-44f4-b6b3-1c52769ac8d1)
+![image](https://github.com/user-attachments/assets/a2119582-8abf-40ec-898f-fc39d4b27a66)
+![image](https://github.com/user-attachments/assets/9285eb58-2450-45f7-b0db-079cfd3a020c)
+![image](https://github.com/user-attachments/assets/4b86536e-bff3-49b3-8baa-f275d5a605f2)
+![image](https://github.com/user-attachments/assets/a981c4e3-6966-4660-9baf-604d3541e23d)
+![image](https://github.com/user-attachments/assets/8121c4b9-5606-4169-a1e3-395f776cdf92)
+![image](https://github.com/user-attachments/assets/b4243483-1716-4c1d-b20b-666c36e98f37)
+![image](https://github.com/user-attachments/assets/86547913-b0f2-47fe-b822-12fb841e1319)
 
 
 Objectives:
